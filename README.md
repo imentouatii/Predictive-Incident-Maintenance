@@ -16,7 +16,7 @@ The data set used for this project contains sensor measurements from a variety o
 ## <b> 2.Dataset </b>
  The data set used for this project is sourced from the UCI Machine Learning Repository, which can be found at the following link:
 
-<h3>&#x2022; https://archive.ics.uci.edu/ml/machine-learning-databases/00601/ai4i2020.csv
+<h3>&#x2022; https://archive.ics.uci.edu/ml/machine-learning-databases/00601/ai4i2020.csv </h3>
 
 The data set contains sensor measurements from 10 different machines in a manufacturing plant, as well as information about whether the machine eventually failed. There are 8 input variables that describe the sensor measurements and 1 output variable that classifies the machines as either "working" or "failed". There are 10,000 samples in the data set.
 
