@@ -2,10 +2,10 @@
 This project uses deep learning to predict equipment failures in a manufacturing plant based on sensor data.
 
 ## <b>Table of Contents</b>
-1. Introduction<br>
-2. Dataset<br>
-3. Methods<br>
-4. Concluion
+<h3>&#x2022; Dataset<br>
+<h3>&#x2022; Methods<br>
+<h3>&#x2022; Usage <br>
+<h3>&#x2022; Concluion
 
 
 ## <b>1. Introduction </b>
@@ -16,7 +16,7 @@ The data set used for this project contains sensor measurements from a variety o
 ## <b> 2.Dataset </b>
  The data set used for this project is sourced from the UCI Machine Learning Repository, which can be found at the following link:
 
-<h3>&#x2022;https://archive.ics.uci.edu/ml/machine-learning-databases/00601/ </h3>
+<h3>&#x2022; https://archive.ics.uci.edu/ml/machine-learning-databases/00601/ai4i2020.csv
 
 The data set contains sensor measurements from 10 different machines in a manufacturing plant, as well as information about whether the machine eventually failed. There are 8 input variables that describe the sensor measurements and 1 output variable that classifies the machines as either "working" or "failed". There are 10,000 samples in the data set.
 
